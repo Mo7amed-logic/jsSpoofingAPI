@@ -1,0 +1,19 @@
+{
+    "morroco": [
+        { "latitude": 34.020882, "longitude": -6.841650 },
+        { "latitude": 33.973900, "longitude": -6.849660 }, 
+        { "latitude": 31.629472, "longitude": -7.981084 }, 
+        { "latitude": 35.764875, "longitude": -5.833956 }, 
+        { "latitude": 32.300000, "longitude": -9.240000 }, 
+        { "latitude": 32.038878, "longitude": -6.835300 }, 
+        { "latitude": 33.585200, "longitude": -4.358700 }, 
+        { "latitude": 36.768203, "longitude": -3.016980 }, 
+        { "latitude": 28.043690, "longitude": -13.398270 },
+        { "latitude": 31.627800, "longitude": -8.002900 }, 
+        { "latitude": 36.746,    "longitude": -5.838 },      
+        { "latitude": 33.5971,   "longitude": -6.7419 },     
+        { "latitude": 33.4890,   "longitude": -7.7100 },     
+        { "latitude": 29.9710,   "longitude": -9.7430 },     
+        { "latitude": 32.8010,   "longitude": -8.4652 }     
+    ]
+}
