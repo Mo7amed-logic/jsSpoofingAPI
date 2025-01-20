@@ -1,0 +1,2 @@
+recursive-include spoofing/jsSpoof *.js 
+recursive-include spoofing/data_spoof *.json

@@ -3,7 +3,8 @@ from setuptools import setup, find_packages
 setup(
     name='spoofing-test',                     # Name of your package
     version='0.1.0',                          # Version of your package
-    packages=find_packages(),                 # Automatically find all packages
+    packages=find_packages(),
+    include_package_data=True,  # Include non-Python files                 # Automatically find all packages
     install_requires=[                        # External dependencies
         'requests',                           # Example of a dependency
     ],

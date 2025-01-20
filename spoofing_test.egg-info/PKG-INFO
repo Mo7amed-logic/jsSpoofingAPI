@@ -1,0 +1,23 @@
+Metadata-Version: 2.2
+Name: spoofing-test
+Version: 0.1.0
+Summary: spoofing javascript api
+Home-page: https://github.com/Mo7amedDev/jsSpoofingAPI.git
+Author: MO7AMED DEV
+Author-email: medhasnaoui833@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: summary
+
+# SpoofingAPI
+A Python package for web automation and spoofing.
